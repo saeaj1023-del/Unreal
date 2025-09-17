@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/HelloUnreal/Content/NewMap.umap",
+				"C:/Unreal/HelloUnreal/Content/Fab/Free_Low_Poly_Forest/pp_demoscene_freelowpolynaturepack/Materials/PP_Standard_Material.uasset",
+				"C:/Unreal/HelloUnreal/Content/Fab/Free_Low_Poly_Forest/pp_demoscene_freelowpolynaturepack/StaticMeshes/pp_demoscene_freelowpolynaturepack.uasset",
+				"C:/Unreal/HelloUnreal/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Unreal/HelloUnreal/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Unreal/HelloUnreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
